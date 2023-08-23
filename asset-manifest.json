@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da033f21.css",
+    "main.js": "/static/js/main.61424f9c.js",
+    "static/js/674.b571b1b2.chunk.js": "/static/js/674.b571b1b2.chunk.js",
+    "static/js/646.78f25728.chunk.js": "/static/js/646.78f25728.chunk.js",
+    "static/js/612.9986c20b.chunk.js": "/static/js/612.9986c20b.chunk.js",
+    "static/js/888.ba79c5ed.chunk.js": "/static/js/888.ba79c5ed.chunk.js",
+    "static/js/120.0a2cb62e.chunk.js": "/static/js/120.0a2cb62e.chunk.js",
+    "static/js/27.cda3b8e1.chunk.js": "/static/js/27.cda3b8e1.chunk.js",
+    "static/media/splash.png": "/static/media/splash.bf9b49e5da6a5c8cc4f1.png",
+    "static/media/polygonLogo.png": "/static/media/polygonLogo.9b346d3c9fe647bb4e3c.png",
+    "static/media/ethLogo.png": "/static/media/ethLogo.8b5406012a6c6a9217d6.png",
+    "static/media/avalancheLogo.png": "/static/media/avalancheLogo.0b03ad51cc5e273faf04.png",
+    "static/media/solanaLogo.png": "/static/media/solanaLogo.40621cec0c4c39fbba45.png",
+    "static/media/bscLogo.png": "/static/media/bscLogo.c63ca79638ab1d8f960f.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.da033f21.css",
+    "static/js/main.61424f9c.js"
+  ]
+}
