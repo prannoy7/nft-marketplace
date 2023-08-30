@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# source-code
+/source-code
+
 # production
 
 # misc
